@@ -1,2 +1,3 @@
 text2
 branch2 - new line text2
+master - new line from GitTest2
