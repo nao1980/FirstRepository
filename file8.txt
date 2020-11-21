@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-text8_master
-=======
-text8_feature3
->>>>>>> feature3
